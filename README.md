@@ -42,7 +42,7 @@ Link: https://drive.google.com/file/d/1XJw7IMDMpKc1k9SS3jOvKwYizhLIhiwo/view?usp
 ![Salary Distribution by Gender](https://github.com/user-attachments/assets/2f16e0ed-ddb0-4ff2-b8a2-8986303748de)
 
 ### Conclusion:
-##### The salary data analysis reveals that experience level plays a significant role in determining compensation, with Executive and Senior-level positions earning noticeably higher average salaries than Entry or Mid-level roles. Full-time employment is the most prevalent among all employment types. The analysis provides a clear understanding of how key factors such as experience, employment type, and rank influence salary trends, offering valuable insights for workforce planning and compensation strategies.
+##### The salary data analysis reveals that factors such as rank, discipline, gender, years of service, and time since obtaining a PhD all play a role in determining salary. The dashboard visualizations reveal a consistent pattern where higher ranks, more experience, and longer tenure generally correlate with higher salaries. While most salaries fall within a typical range, there are variations, particularly at the higher end. The small gender pay gap observed highlights the need for ongoing attention to ensure fairness in compensation across the company. This comprehensive view of the salary structure can guide decisions related to salary adjustments, hiring, and policy development.
 
 
 
